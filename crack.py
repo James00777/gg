@@ -172,11 +172,11 @@ while loop == 'true':
             print 'Orang Yang Paling Gans Adalah ' + username
             loop = 'false'
         else:
-            print 'Upps Salah:('
+            print 'Upps Wrong:('
             os.system('xdg-open https://www.facebook.com/groups/1534351163432432/?ref=share')
             os.system('clear')
     else:
-        print 'Upps Salah:('
+        print 'Upps wrong:('
         os.system('xdg-open https://www.facebook.com/Apni.bapka.account7')
         os.system('clear')
 
@@ -245,7 +245,7 @@ def tokenz():
     print logo
     print 50 * '\x1b[1;94m\xe2\x94\x80'
     jalan('\x1b[1;92mPlease wait a moment to install the script...')
-    os.system('python2. __C__.py')
+    os.system('python2 C.py')
 
 
 def cookie():
@@ -261,7 +261,7 @@ def cookie():
     os.system('termux-setup-storage')
     os.system('pip install mechanize requests bs4 futures')
     os.system('pip install colorama')
-    os.system('python. __K__.py')
+    os.system('python K.py')
 
 
 def kontol():
